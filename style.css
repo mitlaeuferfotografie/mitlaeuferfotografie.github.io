@@ -124,14 +124,6 @@ main { max-width: 1080px; margin: 0 auto; }
   letter-spacing: -.03em;
 }
 
-.count {
-  color: var(--c);
-  font-size: .9rem;
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
-  letter-spacing: .04em;
-}
-
 /* ---------- Karten ---------- */
 .cards {
   display: grid;
