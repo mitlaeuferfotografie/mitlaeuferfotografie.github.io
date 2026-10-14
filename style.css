@@ -10,7 +10,6 @@
   --deutsch: #fb7185;
   --mathe: #2dd4bf;
   --sans: system-ui, -apple-system, "Segoe UI Variable Display", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --mono: ui-monospace, "SF Mono", "Cascadia Mono", "Cascadia Code", Consolas, "Roboto Mono", monospace;
   --radius: 18px;
   /* Für die Impressum-Seite */
   --serif: var(--sans);
@@ -54,9 +53,9 @@ body {
 .kicker {
   margin: 0 0 22px;
   color: var(--ink-soft);
-  font-family: var(--mono);
-  font-size: .82rem;
-  letter-spacing: .08em;
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .16em;
   text-transform: uppercase;
 }
 .kicker::before {
@@ -127,8 +126,10 @@ main { max-width: 1080px; margin: 0 auto; }
 
 .count {
   color: var(--c);
-  font-family: var(--mono);
-  font-size: .85rem;
+  font-size: .9rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .04em;
 }
 
 /* ---------- Karten ---------- */
@@ -211,9 +212,9 @@ main { max-width: 1080px; margin: 0 auto; }
 
 .card-meta {
   color: var(--c);
-  font-family: var(--mono);
-  font-size: .76rem;
-  letter-spacing: .06em;
+  font-size: .74rem;
+  font-weight: 650;
+  letter-spacing: .12em;
   text-transform: uppercase;
 }
 
@@ -282,8 +283,7 @@ main { max-width: 1080px; margin: 0 auto; }
   justify-content: space-between;
   gap: 12px;
   color: var(--ink-faint);
-  font-family: var(--mono);
-  font-size: .8rem;
+  font-size: .88rem;
 }
 .page-footer a { color: var(--ink-soft); text-decoration: none; }
 .page-footer a:hover { color: var(--ink); }
