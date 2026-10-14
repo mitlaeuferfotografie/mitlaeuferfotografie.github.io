@@ -1,11 +1,11 @@
 :root {
-  --bg: #0c0c0f;
-  --surface: #141418;
-  --ink: #f4f4f5;
-  --ink-soft: #a1a1aa;
-  --ink-faint: #71717a;
-  --line: rgba(255, 255, 255, .08);
-  --line-strong: rgba(255, 255, 255, .16);
+  --bg: #262624;
+  --surface: #30302e;
+  --ink: #f5f4ef;
+  --ink-soft: #b7b5a9;
+  --ink-faint: #8a887e;
+  --line: rgba(255, 255, 255, .10);
+  --line-strong: rgba(255, 255, 255, .20);
   --musik: #fbbf24;
   --deutsch: #fb7185;
   --mathe: #2dd4bf;
@@ -181,7 +181,7 @@ main { max-width: 1080px; margin: 0 auto; }
   height: 40px;
   border-radius: 50%;
   background: var(--c);
-  color: #0c0c0f;
+  color: #262624;
   font-size: 1.15rem;
   font-weight: 700;
   opacity: 0;
