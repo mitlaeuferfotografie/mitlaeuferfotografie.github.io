@@ -8,5 +8,5 @@
 
 ## Neue App ergänzen
 1. Screenshot als `assets/<name>.jpg` (3:2) ablegen.
-2. In `index.html` im passenden Fach-Abschnitt eine `<article class="card">` kopieren und Link, Bild, die Zeile „Thema · Klasse“, Titel und den einen Beschreibungssatz anpassen.
+2. In `index.html` im passenden Fach-Abschnitt eine `<article class="card">` kopieren und Link, Bild, die Zeile „Klasse · Thema“, Titel und den einen Beschreibungssatz anpassen.
 3. Für ein neues Fach: neuen `<section>`-Block, Eintrag in der Sprungleiste (`.jump`) und eine Farbe in `style.css` (`--neuesfach`, `.subject-neuesfach`).
