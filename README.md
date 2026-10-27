@@ -41,12 +41,22 @@ Neue **Musik**-Apps kommen zusätzlich in die Musik-Apps-Übersicht (Repo `Musik
 - Keine Zähler bei den Fächern.
 - Sortierung innerhalb eines Fachs: nach Klassenstufe aufsteigend.
 
+## Apps mit Arbeitsblatt-Generator (seit 27.10.2026)
+
+Apps mit eingebautem Arbeitsblatt-Generator bekommen unter dem Beschreibungssatz eine kurze Zusatzzeile mit allen Möglichkeiten:
+
+```html
+<span class="card-extra"><span class="card-extra-label">Arbeitsblatt-Generator</span>Kurz alle Möglichkeiten …</span>
+```
+
+Derzeit: **Erkennen und Zerlegen**, **Die Zehner-Bande**. Kommt bei einer App ein Generator dazu oder ändert er sich deutlich, die Zeile ergänzen bzw. anpassen.
+
 ## Neue App eintragen: Checkliste
 
 1. **Angaben klären:** Fach, Titel, Live-Adresse, Klassenstufe und Thema. Wenn die Klassenstufe nicht eindeutig aus der App hervorgeht, nachfragen.
 2. **Beschreibung:** genau ein Satz, der sagt, was die Kinder in der App tun.
 3. **Screenshot** vom Startbildschirm, 900 × 600 px, als `assets/<name>.jpg` (siehe unten).
-4. **Karte einfügen:** im passenden Fach-Abschnitt an der richtigen Stelle (nach Klasse sortiert) diese Vorlage einsetzen:
+4. **Karte einfügen** (hat die App einen Arbeitsblatt-Generator: Zusatzzeile `card-extra`, siehe oben): im passenden Fach-Abschnitt an der richtigen Stelle (nach Klasse sortiert) diese Vorlage einsetzen:
 
    ```html
    <article class="card">

@@ -223,6 +223,27 @@ main { max-width: 1080px; margin: 0 auto; }
   font-size: .97rem;
 }
 
+/* Zusatzzeile für Apps mit Arbeitsblatt-Generator: klein, mit Trennlinie, Überschrift in der Fachfarbe */
+.card-extra {
+  display: block;
+  max-width: 46ch;
+  margin-top: 4px;
+  padding-top: 8px;
+  border-top: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-size: .85rem;
+  line-height: 1.45;
+}
+.card-extra-label {
+  display: block;
+  margin-bottom: 2px;
+  color: var(--c);
+  font-size: .7rem;
+  font-weight: 650;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
 /* breite Karte (Musik) */
 .card-wide { grid-column: 1 / -1; }
 @media (min-width: 820px) {
