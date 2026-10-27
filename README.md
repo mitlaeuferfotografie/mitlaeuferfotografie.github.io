@@ -4,7 +4,7 @@
 
 **Grundregel: Jede neue öffentliche Lern-App von mitlaeuferfotografie wird hier eingetragen, sobald sie auf GitHub Pages läuft.**
 
-## Aktuell eingetragene Apps (Stand 14.10.2026)
+## Aktuell eingetragene Apps (Stand 27.10.2026)
 
 | Fach | App | Live-Adresse | Repo | Klasse · Thema |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | Deutsch | Die große Verben-Expedition | /verben_expedition/ | verben_expedition | Klasse 2 · Verben |
 | Deutsch | Die Redezeichen-Helden | /redezeichen-helden/ | redezeichen-helden | Klasse 4 · Wörtliche Rede |
 | Deutsch | Pronomen-Magie | /pronomen-magie/ | pronomen-magie | Klasse 4 · Pronomen |
+| Mathe | Erkennen und Zerlegen | /erkennen_und_zerlegen/ | erkennen_und_zerlegen | Klasse 1 · Kraft der 5 und Zerlegen |
 | Mathe | Die Zehner-Bande | /zehner-bande/ | zehner-bande | Klasse 2 · Zahlenraum bis 100 |
 | Mathe | Agent M – Math Mission | /MatheAgent/ | MatheAgent | Klasse 4/5 · Knobelaufgaben |
 
