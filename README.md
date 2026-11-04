@@ -4,7 +4,7 @@
 
 **Grundregel: Jede neue öffentliche Lern-App von mitlaeuferfotografie wird hier eingetragen, sobald sie auf GitHub Pages läuft.**
 
-## Aktuell eingetragene Apps (Stand 27.10.2026)
+## Aktuell eingetragene Apps (Stand 04.11.2026)
 
 | Fach | App | Live-Adresse | Repo | Klasse · Thema |
 |---|---|---|---|---|
@@ -15,12 +15,14 @@
 | Deutsch | Die Adjektiv-Detektive | /AdjektiveDetektiv/ | AdjektiveDetektiv | Klasse 2 · Adjektive |
 | Deutsch | Die große Verben-Expedition | /verben_expedition/ | verben_expedition | Klasse 2 · Verben |
 | Deutsch | Die Redezeichen-Helden | /redezeichen-helden/ | redezeichen-helden | Klasse 4 · Wörtliche Rede |
+| Deutsch (Unterlink) | Redezeichen-Helden – Basis | /redezeichen-helden/basis/ | redezeichen-helden (gleicher Code, Schalter BASIS) | – |
 | Deutsch | Pronomen-Magie | /pronomen-magie/ | pronomen-magie | Klasse 4 · Pronomen |
 | Mathe | Erkennen und Zerlegen | /erkennen_und_zerlegen/ | erkennen_und_zerlegen | Klasse 1 · Kraft der 5 und Zerlegen |
 | Mathe | Die Zehner-Bande | /zehner-bande/ | zehner-bande | Klasse 2 · Zahlenraum bis 100 |
 | Mathe | Agent M – Math Mission | /MatheAgent/ | MatheAgent | Klasse 4/5 · Knobelaufgaben |
 
 Bewusst **nicht** eingetragen: KI-Werkstatt (Workshop-Seite für Lehrkräfte, keine Kinder-App).
+**Weitere Fassungen** einer App (z. B. die Basis-Version der Redezeichen-Helden) bekommen keine eigene Karte, sondern einen Unterlink (`<ul class="sub-apps">`) unter der Karte der App.
 Neue **Musik**-Apps kommen zusätzlich in die Musik-Apps-Übersicht (Repo `Musik-Apps`) und hier als weiterer Unterlink unter der Musik-Karte.
 
 ## Aufbau
