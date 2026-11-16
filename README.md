@@ -4,7 +4,7 @@
 
 **Grundregel: Jede neue öffentliche Lern-App von mitlaeuferfotografie wird hier eingetragen, sobald sie auf GitHub Pages läuft.**
 
-## Aktuell eingetragene Apps (Stand 04.11.2026)
+## Aktuell eingetragene Apps (Stand 16.11.2026)
 
 | Fach | App | Live-Adresse | Repo | Klasse · Thema |
 |---|---|---|---|---|
@@ -12,6 +12,7 @@
 | Musik (Unterlink) | Rhythmus-Generator | /Rhythmus-Generator/ | Rhythmus-Generator | – |
 | Musik (Unterlink) | Rhythmus-Trainer | /Rhythmus-Trainer/ | Rhythmus-Trainer | – |
 | Musik (Unterlink) | Noten-Rätsel | /Noten-Raetsel/ | Noten-Raetsel | – |
+| Deutsch | Silbenmonster | /silbenmonster/ | silbenmonster | Klasse 1 · Silben lesen |
 | Deutsch | Die Adjektiv-Detektive | /AdjektiveDetektiv/ | AdjektiveDetektiv | Klasse 2 · Adjektive |
 | Deutsch | Die große Verben-Expedition | /verben_expedition/ | verben_expedition | Klasse 2 · Verben |
 | Deutsch | Die Redezeichen-Helden | /redezeichen-helden/ | redezeichen-helden | Klasse 4 · Wörtliche Rede |
@@ -51,7 +52,7 @@ Apps mit eingebautem Arbeitsblatt-Generator bekommen unter dem Beschreibungssatz
 <span class="card-extra"><span class="card-extra-label">Arbeitsblatt-Generator</span>Kurz alle Möglichkeiten …</span>
 ```
 
-Derzeit: **Erkennen und Zerlegen**, **Die Zehner-Bande**. Kommt bei einer App ein Generator dazu oder ändert er sich deutlich, die Zeile ergänzen bzw. anpassen.
+Derzeit: **Erkennen und Zerlegen**, **Die Zehner-Bande**, **Silbenmonster**. Kommt bei einer App ein Generator dazu oder ändert er sich deutlich, die Zeile ergänzen bzw. anpassen.
 
 ## Neue App eintragen: Checkliste
 
