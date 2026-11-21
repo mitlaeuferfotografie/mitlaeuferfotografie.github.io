@@ -17,6 +17,7 @@
 | Deutsch | Die große Verben-Expedition | /verben_expedition/ | verben_expedition | Klasse 2 · Verben |
 | Deutsch | Zeitreise | /zeitreise/ | zeitreise | Klasse 3/4 · Zeitformen der Verben |
 | Deutsch (Unterlink) | Zeitreise – Klasse 3 | /zeitreise/?stufe=3 | zeitreise (gleicher Code, Link-Parameter) | – |
+| Deutsch (Unterlink) | Zeitreise – Basis | /zeitreise/basis/ | zeitreise (gleicher Code, Schalter BASIS) | – |
 | Deutsch | Die Redezeichen-Helden | /redezeichen-helden/ | redezeichen-helden | Klasse 4 · Wörtliche Rede |
 | Deutsch (Unterlink) | Redezeichen-Helden – Basis | /redezeichen-helden/basis/ | redezeichen-helden (gleicher Code, Schalter BASIS) | – |
 | Deutsch | Pronomen-Magie | /pronomen-magie/ | pronomen-magie | Klasse 4 · Pronomen |
