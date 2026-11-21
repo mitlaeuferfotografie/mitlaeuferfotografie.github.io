@@ -54,7 +54,7 @@ Apps mit eingebautem Arbeitsblatt-Generator bekommen unter dem Beschreibungssatz
 <span class="card-extra"><span class="card-extra-label">Arbeitsblatt-Generator</span>Kurz alle Möglichkeiten …</span>
 ```
 
-Derzeit: **Erkennen und Zerlegen**, **Die Zehner-Bande**, **Silbenmonster**. Kommt bei einer App ein Generator dazu oder ändert er sich deutlich, die Zeile ergänzen bzw. anpassen.
+Derzeit: **Erkennen und Zerlegen**, **Die Zehner-Bande**, **Silbenmonster**, **Zeitreise**. Kommt bei einer App ein Generator dazu oder ändert er sich deutlich, die Zeile ergänzen bzw. anpassen.
 
 ## Neue App eintragen: Checkliste
 
