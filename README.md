@@ -4,7 +4,7 @@
 
 **Grundregel: Jede neue öffentliche Lern-App von mitlaeuferfotografie wird hier eingetragen, sobald sie auf GitHub Pages läuft.**
 
-## Aktuell eingetragene Apps (Stand 16.11.2026)
+## Aktuell eingetragene Apps (Stand 21.11.2026)
 
 | Fach | App | Live-Adresse | Repo | Klasse · Thema |
 |---|---|---|---|---|
@@ -15,6 +15,8 @@
 | Deutsch | Silbenmonster | /silbenmonster/ | silbenmonster | Klasse 1 · Silben lesen |
 | Deutsch | Die Adjektiv-Detektive | /AdjektiveDetektiv/ | AdjektiveDetektiv | Klasse 2 · Adjektive |
 | Deutsch | Die große Verben-Expedition | /verben_expedition/ | verben_expedition | Klasse 2 · Verben |
+| Deutsch | Zeitreise | /zeitreise/ | zeitreise | Klasse 3/4 · Zeitformen der Verben |
+| Deutsch (Unterlink) | Zeitreise – Klasse 3 | /zeitreise/?stufe=3 | zeitreise (gleicher Code, Link-Parameter) | – |
 | Deutsch | Die Redezeichen-Helden | /redezeichen-helden/ | redezeichen-helden | Klasse 4 · Wörtliche Rede |
 | Deutsch (Unterlink) | Redezeichen-Helden – Basis | /redezeichen-helden/basis/ | redezeichen-helden (gleicher Code, Schalter BASIS) | – |
 | Deutsch | Pronomen-Magie | /pronomen-magie/ | pronomen-magie | Klasse 4 · Pronomen |
